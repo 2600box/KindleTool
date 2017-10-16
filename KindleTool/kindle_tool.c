@@ -288,6 +288,10 @@ const char *convert_device_id(Device dev)
             return "White Kindle PaperWhite 3 (Unknown Variant 0KG)";
         case KindleOasisWiFi:
             return "Kindle Oasis WiFi";
+        case KindlePW3_32GB_Color1:
+            return "Kindle PW3 Manga 1";
+        case KindlePW3_32GB_Color2:
+            return "Kindle PW3 Manga 2";
         case KindleOasisWiFi3G:
             return "Kindle Oasis WiFi+3G";
         case KindleOasisUnknown_0GR:
